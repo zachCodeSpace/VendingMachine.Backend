@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tBpg2UbFJ5SoAuxvSV7IasaO7WDxP/VgwHgohkFoRJI=",
+  "Source": "VendingMachine.BFF",
+  "BasePath": "_content/VendingMachine.BFF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
